@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" version="1.2">
+  <rect width="1000" height="1000" fill="#191919"></rect>
+  <rect width="1000" height="1000" fill="white"></rect>
+  <path d="M500 100C720.914 100 900 279.086 900 500C900 720.914 720.914 900 500 900C279.086 900 100 720.914 100 500C100 279.086 279.086 100 500 100ZM289.062 626.562V710.938H542.188V626.562H289.062ZM626.562 626.562V710.938H710.938V626.562H626.562ZM289.062 457.812V542.188H710.938V457.812H289.062ZM457.812 289.062V373.438H710.938V289.062H457.812Z" fill="#CD0A43"></path>
+  <title>Title</title>
+</svg>
